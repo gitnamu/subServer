@@ -170,5 +170,5 @@ def Astar_main(ul, rl, path):
     #file_path = argv[2]
     #UL = "[154:230]"
     #RL ="[110:36]"
-    #file_path = "C:/Users/namu/Desktop/test/image.txt"
+    #file_path = "C:/Users/namu/Desktop/test/74278BDA-B644-4520-8F0C-720EAF059935_1.txt"
     return (startAstar(ul, rl, path))
